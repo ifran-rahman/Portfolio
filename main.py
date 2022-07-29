@@ -135,8 +135,8 @@ st.markdown('''
 
 st.markdown('''
 **Bachelor of Science in Computer Science and Engineering**, *North South University*, Bangladesh
-- Research thesis entitled `Implementing Different Knowledge Distillation methods on Bangla OCR`.
-- `Received Best Poster Award`.
+- Research thesis entitled `Implementing Different Knowledge Distillation methods on Bangla OCR`
+- `Received Best Poster Award`
 ''')
 
 st.markdown('''
