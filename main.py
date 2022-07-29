@@ -51,7 +51,8 @@ st.markdown("""
         <a class="nav-link disabled" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#publication-and-projects">Research</a>
+        <a class="nav-link" href="#
+        tion-and-projects">Research</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#resume">Resume</a>
@@ -68,7 +69,7 @@ st.markdown('''
 ''', unsafe_allow_html = True)
 
 st.markdown('''
-## Publication and Projects
+## Publications and Projects
 ''')
 st.markdown('''
 ### Publications
@@ -135,7 +136,7 @@ st.markdown('''
 st.markdown('''
 **Bachelor of Science in Computer Science and Engineering**, *North South University*, Bangladesh
 - Research thesis entitled `Implementing Different Knowledge Distillation methods on Bangla OCR`.
-- Received Best Poster Award`.
+- `Received Best Poster Award`.
 ''')
 
 st.markdown('''
@@ -157,7 +158,7 @@ st.markdown('''
 st.markdown('''
 ### Skills
 ''')
-txt3('`Programming`', '`Python` `Java` `Familiar with`:  `C` `C++` `Arduino`')
+txt3('`Programming`', '`Python` `Java` `Familiar with:`  `C` `C++` `Arduino`')
 txt3('`Frameworks`', '`Pytorch` `TensorFlow` `Keras` `Native Android (Java)` `Flutter`')
 txt3('`Database`', '`MySQL` `Firebase`')
 txt3('`Version Control and Tools`', '`Git` `GitHub` `Bitbucket`')
