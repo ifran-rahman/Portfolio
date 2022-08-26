@@ -192,12 +192,19 @@ st.markdown('''
 ## Achievements
 ''')
 
-txt5('images/dms.png', 
+txt5('images/ic.jpg', 
 '''
 <div style="text-align: left">
-<b> Champion </b>, Best Poster Category, <i> Innovation Challene, 2022 </i> <br>
+<b> Champion</b>, Best Poster Category, <i>Innovation Challene, 2022 </i> <br>
 
-A multiplatform document management system. Built using Native android and Django.</div>
+Final year thesis showcase.</div>
+''')
+txt5('images/hacknsu.jpg', 
+'''
+<div style="text-align: left">
+<b> 1st Runner Up </b>, <i>HackNSU, 2019</i> <br>
+
+Developed an web based solution to the then undergraduate admission problems of Bangladesh.</div>
 ''')
 
 #####################
