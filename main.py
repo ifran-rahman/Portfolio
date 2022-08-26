@@ -114,7 +114,7 @@ visualization and further research of an object detction problem. The work also 
 of the dataset on different state of the art models. </div>
 ''')
 
-txt5('images/https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/12/Screenshot-from-2018-11-29-13-03-17.png', 
+txt5('https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/12/Screenshot-from-2018-11-29-13-03-17.png', 
 '''
 <div style="text-align: left">
 <b> <a> Solving a Local Object Detection Problem</a> </b> <br>
