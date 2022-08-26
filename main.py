@@ -192,15 +192,12 @@ st.markdown('''
 ## Achievements
 ''')
 
-txt5('images/janao.png', 
+txt5('images/dms.png', 
 '''
 <div style="text-align: left">
-'**Champion**, Best Poster Category, *Innovation Challenge, 2022*' </b> <br>
+<b> Champion </b>, Best Poster Category, <i> Innovation Challene, 2022 </i> <br>
 
-A public service application. Helps user to send image, location and necessary information of a crime scene immediately 
-to the law enforcement agency. Law enforcement agency has another application to receive and view the sent crimes and details list. <br>
-<a href="https://github.com/ifran-rahman/Janao">github</a> 
-</div>
+A multiplatform document management system. Built using Native android and Django.</div>
 ''')
 
 #####################
