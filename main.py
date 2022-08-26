@@ -107,7 +107,7 @@ Performing several research experiments on the OCR model.</div>
 txt5('images/drkd.png', 
 '''
 <div style="text-align: left">
-<b> <a> Real World Application and Comprehensive Analysis of Object Detection System</a> </b> <br>
+<b> <a> Real World Application of an Object Detection System including Comprehensive Analysis on Different Models </a> </b> <br>
 
 Using a mobile app to get image and location of particular interest. The collected data gets processed for
 visualization and further research of an object detction problem. The work also includes comprehensive analysis
@@ -120,7 +120,7 @@ txt5('images/drkd.png',
 <b> <a> Solving a Local Object Detection Problem</a> </b> <br>
 
 Leading a group of 10 undergrad students from <a href='https://nsusc.acm.org/home.html' >NSU ACM SC</a>, to solve a local object detection problem. Guiding them from to build a 
-solution from scratch including building dataset, training models and building mobile application etc</div>
+solution from scratch, including building dataset, training models and building mobile application etc</div>
 ''')
 
 st.markdown('''
