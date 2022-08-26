@@ -98,9 +98,9 @@ Doctors can verify each predicted beat. Model gets trained after a certain perio
 txt5('images/drkd.png', 
 '''
 <div style="text-align: left">
-<b> <a> Application of different knowledge distillation methods on OCR models </a> </b> <br>
+<b> <a> Application of a new knowledge distillation methods on OCR models </a> </b> <br>
 
-Trying to improve OCR model using knowledge distillation methods.
+Trying to improve OCR model using a new knowledge distillation method.
 Performing several research experiments on the OCR model.</div>
 ''')
 
@@ -187,6 +187,23 @@ txt3('`Database`', '`MySQL` `Firebase`')
 txt3('`Version Control and Tools`', '`Git` `GitHub` `Bitbucket`')
 txt3('`Data visualization`', '`Google Data Studio` `matplotlib` `seaborn` `plotly`')
 txt3('`Presentation`','`PowerPoint`  `Word` `Canva`')
+
+#####################
+st.markdown('''
+### Service
+''')
+
+txt('**Coordinator**, Team Research & Development, *NSU ACM Student Chapter*,'2020 – 2022')
+st.markdown('''
+- Currently instructing a research project (stated in the project section of this website).
+- Managed an international programming contest “Semi-code”, Inter-University Hackathon "HackNSU Season 3”. 
+- Planned and arranged intra hackathons, programming contests, and team meetings. 
+''')
+txt('**Sub Executive**, Team Provision, *NSU ACM Student Chapter*, '2020 – 2022')
+st.markdown('''
+- One of the leads of a team of nearly two hundred members.
+- Worked in arranging, planning contests, recruitment events and maintaining order and discipline in the team. 
+''')
 
 #####################
 st.markdown('''
