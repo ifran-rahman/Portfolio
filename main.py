@@ -83,13 +83,13 @@ txt5('images/vispol.png',
 </div>
 ''')
 st.markdown('''
-### Projects ( _On going_)
+### Projects (_On going_)
 ''')
 
 txt5('images/ecg.png', 
 '''
 <div style="text-align: left">
-<b> <a> Heartisan: ECG Data Monitoring, Crowdsourcing and Arrhythmia Detection System  </a> </b> <br>
+<b> <a> Heartisan: An Integrated System for ECG Data Monitoring, Collection and Arrhythmia Prediction  </a> </b> <br>
 
 Individual can monitor their ECG graphs and heart arrhythmia conditions. Predicted beats and data can be pushed for verification. 
 Doctors can verify each predicted beat. Model gets trained after a certain period of time depending on some criterias.</div>
@@ -100,8 +100,31 @@ txt5('images/drkd.png',
 <div style="text-align: left">
 <b> <a> Application of different knowledge distillation methods on OCR models </a> </b> <br>
 
-On-going research. Trying to improve OCR model using knowledge distillation methods.
+Trying to improve OCR model using knowledge distillation methods.
 Performing several research experiments on the OCR model.</div>
+''')
+
+txt5('images/drkd.png', 
+'''
+<div style="text-align: left">
+<b> <a> Real World Application and Comprehensive Analysis of Object Detection System</a> </b> <br>
+
+Using a mobile app to get image and location of particular interest. The collected data gets processed for
+visualization and further research of an object detction problem. The work also includes comprehensive analysis
+of the dataset on different state of the art models. </div>
+''')
+
+txt5('images/drkd.png', 
+'''
+<div style="text-align: left">
+<b> <a> Solving a Local Object Detection Problem</a> </b> <br>
+
+Leading a group of 10 undergrad students from <a href='https://nsusc.acm.org/home.html' >NSU ACM SC</a>, to solve a local object detection problem. Guiding them from to build a 
+solution from scratch including building dataset, training models and building mobile application etc</div>
+''')
+
+st.markdown('''
+### Projects (_Previous_)
 ''')
 
 txt5('images/janao.png', 
@@ -122,6 +145,7 @@ txt5('images/dms.png',
 
 A multiplatform document management system. Built using Native android and Django.</div>
 ''')
+
 #####################
 
 st.markdown('''
