@@ -83,7 +83,7 @@ txt5('images/vispol.png',
 </div>
 ''')
 st.markdown('''
-### Projects
+### Projects ( _On going_)
 ''')
 
 txt5('images/ecg.png', 
