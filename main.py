@@ -188,14 +188,29 @@ txt3('`Version Control and Tools`', '`Git` `GitHub` `Bitbucket`')
 txt3('`Data visualization`', '`Google Data Studio` `matplotlib` `seaborn` `plotly`')
 txt3('`Presentation`','`PowerPoint`  `Word` `Canva`')
 
+st.markdown('''
+## Achievements
+''')
+
+txt5('images/janao.png', 
+'''
+<div style="text-align: left">
+'**Champion**, Best Poster Category, *Innovation Challenge, 2022*' </b> <br>
+
+A public service application. Helps user to send image, location and necessary information of a crime scene immediately 
+to the law enforcement agency. Law enforcement agency has another application to receive and view the sent crimes and details list. <br>
+<a href="https://github.com/ifran-rahman/Janao">github</a> 
+</div>
+''')
+
 #####################
 st.markdown('''
-### Service
+## Service
 ''')
 
 txt('**Coordinator**, Team Research & Development, *NSU ACM Student Chapter*','Jan 2020 - Jan 2022')
 st.markdown('''
-- Currently instructing a research project. Stated in the <a href='https://nsusc.acm.org/home.html' >project section</a> of this website.
+- Currently instructing a research project. (Stated in the project section of this website).
 - Managed an international programming contest “Semi-code”, Inter-University Hackathon "HackNSU Season 3”. 
 - Planned and arranged intra hackathons, programming contests, and team meetings. 
 ''')
