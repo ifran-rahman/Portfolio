@@ -193,13 +193,13 @@ st.markdown('''
 ### Service
 ''')
 
-txt('**Coordinator**, Team Research & Development, *NSU ACM Student Chapter*,' 2020 – 2022 ')
+txt('**Coordinator**, Team Research & Development, *NSU ACM Student Chapter*,'Jan 2020 - Jan 2022')
 st.markdown('''
 - Currently instructing a research project (stated in the project section of this website).
 - Managed an international programming contest “Semi-code”, Inter-University Hackathon "HackNSU Season 3”. 
 - Planned and arranged intra hackathons, programming contests, and team meetings. 
 ''')
-txt('**Sub Executive**, Team Provision, *NSU ACM Student Chapter*, ' 2020 – 2022 ')
+txt('**Sub Executive**, Team Provision, *NSU ACM Student Chapter*, 'Nov 2020 - Feb 2022')
 st.markdown('''
 - One of the leads of a team of nearly two hundred members.
 - Worked in arranging, planning contests, recruitment events and maintaining order and discipline in the team. 
