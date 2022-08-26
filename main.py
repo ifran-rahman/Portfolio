@@ -104,7 +104,7 @@ Trying to improve OCR model using knowledge distillation methods.
 Performing several research experiments on the OCR model.</div>
 ''')
 
-txt5('images/drkd.png', 
+txt5('images/vispol2.png', 
 '''
 <div style="text-align: left">
 <b> <a> Real World Application of an Object Detection System including Comprehensive Analysis on Different Models </a> </b> <br>
@@ -114,7 +114,7 @@ visualization and further research of an object detction problem. The work also 
 of the dataset on different state of the art models. </div>
 ''')
 
-txt5('images/drkd.png', 
+txt5('images/https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/12/Screenshot-from-2018-11-29-13-03-17.png', 
 '''
 <div style="text-align: left">
 <b> <a> Solving a Local Object Detection Problem</a> </b> <br>
