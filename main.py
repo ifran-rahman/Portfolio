@@ -57,7 +57,7 @@ st.markdown("""
         <a class="nav-link" href="#resume">Resume</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#achivements">Achievements</a>
+        <a class="nav-link" href="#achievements">Achievements</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#service">Service</a>
