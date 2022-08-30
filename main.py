@@ -98,9 +98,10 @@ txt5('images/ecg.png',
 <b> <a> Heartisan: An Integrated System for ECG Data Monitoring, Collection and Arrhythmia Prediction  </a> </b> <br>
 
 Individual can monitor their ECG graphs and heart arrhythmia conditions. Predicted beats and data can be pushed for verification. 
-Doctors can verify each predicted beat. Model gets trained after a certain period of time depending on some criterias.</div>
-''')
+Doctors can verify each predicted beat. Model gets trained after a certain period of time depending on some criterias. <br>
 <a href="https://github.com/ifran-rahman/Heartisan">code</a> 
+</div>
+''')
 
 txt5('images/drkd.png', 
 '''
