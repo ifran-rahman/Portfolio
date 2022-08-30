@@ -100,6 +100,7 @@ txt5('images/ecg.png',
 Individual can monitor their ECG graphs and heart arrhythmia conditions. Predicted beats and data can be pushed for verification. 
 Doctors can verify each predicted beat. Model gets trained after a certain period of time depending on some criterias.</div>
 ''')
+<a href="https://github.com/ifran-rahman/Heartisan">code</a> 
 
 txt5('images/drkd.png', 
 '''
@@ -140,7 +141,7 @@ txt5('images/janao.png',
 
 A public service application. Helps user to send image, location and necessary information of a crime scene immediately 
 to the law enforcement agency. Law enforcement agency has another application to receive and view the sent crimes and details list. <br>
-<a href="https://github.com/ifran-rahman/Janao">github</a> 
+<a href="https://github.com/ifran-rahman/Janao">code</a> 
 </div>
 ''')
 
