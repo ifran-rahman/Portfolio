@@ -151,8 +151,9 @@ txt5('images/dms.png',
 <div style="text-align: left">
 <b> <a> Document Management Service </a> </b> <br>
 
-A mobile application to digitize and manage documents and files of a particular organization. The application is built using Native Android and Firebase Realtime database. MVC (Model View Controller) architecture is used to structure the code. It was originally part of a multi-platform application project.</div>
+A mobile application to digitize and manage documents and files of a particular organization. The application is built using Native Android and Firebase Realtime database. MVC (Model View Controller) architecture is used to structure the code. It was originally part of a multi-platform application project.
 <a href="https://github.com/ifran-rahman/Document-Digitization-Service">code</a> 
+</div>
 ''')
 
 #####################
