@@ -108,7 +108,7 @@ txt5('images/data_analytics.png',
 <div style="text-align: left">
 <b> <a> Customer Sales Data Analysis and Prediction </a> </b> <br>
 
-Analyze customer sales data using Google Looker Studio (Data Studio). Used XGBoost Regressor to predict customer's order quantity. <br>
+Analyzing a customer sales dataset using Google Looker Studio (Data Studio). Used XGBoost Regressor to predict customer's order quantity. <br>
 <a href="https://datastudio.google.com/reporting/8d8f0ff8-b3b2-4ec2-8556-f095e695c55e">dashboard</a> &nbsp;
 <a href="https://github.com/ifran-rahman/Customer_Data_Analysis">code</a> 
 </div>
