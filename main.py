@@ -113,7 +113,6 @@ Analyze customer sales data using Google Looker Studio (Data Studio). Used XGBoo
 <a href="https://github.com/ifran-rahman/Customer_Data_Analysis">code</a> 
 </div>
 ''')
-txt3('`Presentation`','`PowerPoint`  `Word` `Canva`')
 
 txt5('images/drkd.png', 
 '''
