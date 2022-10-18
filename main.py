@@ -106,7 +106,7 @@ Doctors can verify each predicted beat. Model gets trained after a certain perio
 txt5('images/data_analytics.png', 
 '''
 <div style="text-align: left">
-<b> <a> Customer Sales Data Analysis\/a> </b> <br>
+<b> <a> Customer Sales Data Analysis </a> </b> <br>
 
 Analyzing a customer sales dataset using Google Looker Studio (Data Studio). <br>
 <a href="https://datastudio.google.com/reporting/8d8f0ff8-b3b2-4ec2-8556-f095e695c55e">dashboard</a> &nbsp;
