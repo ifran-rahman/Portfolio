@@ -168,7 +168,7 @@ txt5('images/d-m-s.png',
 A mobile application to digitize and manage documents and files of a particular organization. <br>
 -	View all employee’s public profile and files <br>
 -	Private repository for private files <br>
--	Upload and capture document images and other files <br>
+-	Upload and capture document images and other files 
 <a href="https://github.com/ifran-rahman/Document-Digitization-Service">code</a> 
 </div>
 ''')
