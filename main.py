@@ -95,7 +95,7 @@ st.markdown('''
 txt5('images/ecg.png', 
 '''
 <div style="text-align: left">
-<b> <a> Heartisan: An Integrated System for ECG Data Monitoring, Collection and Arrhythmia Prediction  </a> </b> <br>
+<b> <a> Heartisan: ECG Data Monitoring and Arrhythmia Prediction Through Continuous Learning from Patient Data </a> </b> <br>
 
 Individual can monitor their ECG graphs and heart arrhythmia conditions. Predicted beats and data can be pushed for verification. 
 Doctors can verify each predicted beat. Model gets trained after a certain period of time depending on some criterias. <br>
