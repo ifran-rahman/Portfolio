@@ -100,7 +100,7 @@ txt5('images/ecg.png',
 -	Custom signal viewing mode <br>
 -	Doctor’s can verify model's predictions on patient data <br>
 -	Utilizes model's predicted and doctor verified data to improve model on a schedule basis. <br>
--	Upon sharing credentials, user can share report and history with any doctor
+-	Upon sharing credentials, user can share report and history with any doctor 
 <a href="https://github.com/ifran-rahman/Heartisan">code</a> 
 </div>
 ''')
@@ -155,7 +155,7 @@ txt5('images/janao.png',
 <b> <a> Janao: Public Harassment & Crime Reporting System </a> </b> <br>
 
 -	Users can send image, location and information of a crime scene immediately to the law enforcement agency <br>
--	Law enforcement agency has another application to receive and view the sent crimes and details list <br>
+-	Law enforcement agency has another application to receive and view the sent crimes and details list
 <a href="https://github.com/ifran-rahman/Janao">code</a> 
 </div>
 ''')
