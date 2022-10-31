@@ -99,7 +99,7 @@ txt5('images/ecg.png',
 -	Individuals can log in and monitor their ECG signals (based on the date) and heart arrhythmia conditions <br>
 -	Custom signal viewing mode <br>
 -	Doctor’s can verify model's predictions on patient data <br>
--	Utilizes model's previously predicted and doctor verified data to build better models on a schedule basis. <br>
+-	Utilizes model's predicted and doctor verified data to improve model on a schedule basis. <br>
 -	Upon sharing credentials, user can share report and history with any doctor
 <a href="https://github.com/ifran-rahman/Heartisan">code</a> 
 </div>
@@ -121,7 +121,7 @@ txt5('images/drkd.png',
 <b> <a> Application of a novel knowledge distillation method on OCR models </a> </b> <br>
 
 Trying to improve OCR model using a novel knowledge distillation method. Currently optimizing the algorithm and experimenting on different dataset.
-/div>
+</div>
 ''')
 
 txt5('images/vispol2.png', 
