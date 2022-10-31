@@ -96,9 +96,11 @@ txt5('images/ecg.png',
 '''
 <div style="text-align: left">
 <b> <a> Heartisan: ECG Data Monitoring and Arrhythmia Prediction Through Continuous Learning from Patient Data </a> </b> <br>
-
-Individual can monitor their ECG graphs and heart arrhythmia conditions. Predicted beats and data can be pushed for verification. 
-Doctors can verify each predicted beat. Model gets trained after a certain period of time depending on some criterias. <br>
+-	Individuals can log in and monitor their ECG signals (based on the date) and heart arrhythmia conditions <br>
+-	Custom signal viewing mode <br>
+-	Doctor’s can verify model's predictions on patient data <br>
+-	Utilizes model's previously predicted and doctor verified data to build better models on a schedule basis. <br>
+-	Upon sharing credentials, user can share report and history with any doctor
 <a href="https://github.com/ifran-rahman/Heartisan">code</a> 
 </div>
 ''')
@@ -108,7 +110,7 @@ txt5('images/data_analytics.png',
 <div style="text-align: left">
 <b> <a> Customer Sales Data Analysis </a> </b> <br>
 
-Analyzing a customer sales dataset using Google Looker Studio (Data Studio). <br>
+Analyzing a customer sales dataset using Google Looker Studio (Data Studio). Currently working on ML model and webpage. <br>
 <a href="https://datastudio.google.com/reporting/8d8f0ff8-b3b2-4ec2-8556-f095e695c55e">dashboard</a> &nbsp;
 </div>
 ''')
@@ -118,8 +120,8 @@ txt5('images/drkd.png',
 <div style="text-align: left">
 <b> <a> Application of a novel knowledge distillation method on OCR models </a> </b> <br>
 
-Trying to improve OCR model using a novel knowledge distillation method.
-Performing several research experiments on the OCR model.</div>
+Trying to improve OCR model using a novel knowledge distillation method. Currently optimizing the algorithm and experimenting on different dataset.
+/div>
 ''')
 
 txt5('images/vispol2.png', 
@@ -127,9 +129,11 @@ txt5('images/vispol2.png',
 <div style="text-align: left">
 <b> <a> Real World Application of an Object Detection System including Comprehensive Analysis on Different Models </a> </b> <br>
 
-Using a mobile app to get image and location of particular interest. The collected data gets processed for
-visualization and further research of an object detction problem. The work also includes comprehensive analysis
-of the dataset on different state of the art models. </div>
+-	The mobile app helps to get image and location of a particular interest<br>
+-	The collected data gets processed for visualization and further research of the object detection problem<br>
+-	Improve model through incremental learning using the collected images. Separate portal to view performance<br>
+-	Comprehensive analysis of the dataset on different state of the art models<br>
+</div>
 ''')
 
 txt5('https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/12/Screenshot-from-2018-11-29-13-03-17.png', 
@@ -150,8 +154,8 @@ txt5('images/janao.png',
 <div style="text-align: left">
 <b> <a> Janao: Public Harassment & Crime Reporting System </a> </b> <br>
 
-A public service application. Helps user to send image, location and necessary information of a crime scene immediately 
-to the law enforcement agency. Law enforcement agency has another application to receive and view the sent crimes and details list. <br>
+-	Users can send image, location and information of a crime scene immediately to the law enforcement agency <br>
+-	Law enforcement agency has another application to receive and view the sent crimes and details list <br>
 <a href="https://github.com/ifran-rahman/Janao">code</a> 
 </div>
 ''')
@@ -161,7 +165,10 @@ txt5('images/d-m-s.png',
 <div style="text-align: left">
 <b> <a> Document Management Service </a> </b> <br>
 
-A mobile application to digitize and manage documents and files of a particular organization. The application is built using Native Android and Firebase Realtime database. MVC (Model View Controller) architecture is used to structure the code. It was originally part of a multi-platform application project. <br>
+A mobile application to digitize and manage documents and files of a particular organization. <br>
+-	View all employee’s public profile and files <br>
+-	Private repository for private files <br>
+-	Upload and capture document images and other files <br>
 <a href="https://github.com/ifran-rahman/Document-Digitization-Service">code</a> 
 </div>
 ''')
