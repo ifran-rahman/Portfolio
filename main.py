@@ -108,9 +108,10 @@ txt5('images/ecg.png',
 txt5('images/data_analytics.png', 
 '''
 <div style="text-align: left">
-<b> <a> Customer Sales Data Analysis </a> </b> <br>
+<b> <a> Customer Sales Data Analysis and Revenue Prediction</a> </b> <br>
 
-Analyzing a customer sales dataset using Google Looker Studio (Data Studio). Currently working on ML model and webpage. <br>
+Customer data analysis using Google Looker Studio (Data Studio). Deployed Revenue prediction model.<br>
+<a href="https://ifran-rahman-customer-data-analysis-prediction-api-qhfvfk.streamlitapp.com/">Deployed site</a> &nbsp;
 <a href="https://datastudio.google.com/reporting/8d8f0ff8-b3b2-4ec2-8556-f095e695c55e">dashboard</a> &nbsp;
 </div>
 ''')
