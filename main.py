@@ -95,12 +95,11 @@ st.markdown('''
 txt5('images/ecg.png', 
 '''
 <div style="text-align: left">
-<b> <a> Heartisan: ECG Data Monitoring and Arrhythmia Prediction Through Continuous Learning from Patient Data </a> </b> <br>
--	Individuals can log in and monitor their ECG signals (based on the date) and heart arrhythmia conditions <br>
--	Custom signal viewing mode <br>
--	Doctor’s can verify model's predictions on patient data <br>
--	Utilizes model's predicted and doctor verified data to improve model on a schedule basis. <br>
--	Upon sharing credentials, user can share report and history with any doctor 
+<b> <a> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System </a> </b> <br>
+-       Currently working on testing the proposed incremental learning pipeline
+-       ECG monitoring web app
+-       Incremental learning approach to learn and update arrhythmia detection model continuously through patient data
+• Worked on the data pipeline, the arrhythmia classifier and the backend (Python, Firebase). c
 <a href="https://github.com/ifran-rahman/Heartisan">code</a> 
 </div>
 ''')
