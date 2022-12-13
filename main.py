@@ -92,7 +92,7 @@ st.markdown('''
 ### Projects (_On going_)
 ''')
 
-txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.png?raw=true', 
+txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
 '''
 <div style="text-align: left">
 <b> <a> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System </a> </b> <br>
