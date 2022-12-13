@@ -92,20 +92,7 @@ st.markdown('''
 ### Projects (_On going_)
 ''')
 
-txt5('images/ecg.png', 
-'''
-<div style="text-align: left">
-<b> <a> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System</a> </b> <br>
-
-A mobile application to digitize and manage documents and files of a particular organization. <br>
--	Currently working on testing the proposed incremental learning pipeline <br>
--	ECG monitoring web app <br>
--	Incremental learning approach to learn and update arrhythmia detection model continuously through patient data <br>
-<a href="https://github.com/ifran-rahman/Heartisan">code</a> 
-</div>
-''')
-
-txt5('images/ecg.png', 
+txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.png?raw=true', 
 '''
 <div style="text-align: left">
 <b> <a> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System </a> </b> <br>
