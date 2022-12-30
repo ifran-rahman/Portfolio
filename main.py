@@ -101,7 +101,7 @@ txt5('images/vispol2.png',
 ''')
 
 st.markdown('''
-### _On progress_
+#### On progress
 ''')
 
 txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
