@@ -74,7 +74,7 @@ st.markdown('''
 ''', unsafe_allow_html = True)
 
 st.markdown('''
-## Publications and Projects
+## Research and Publications
 ''')
 st.markdown('''
 ### Publications
@@ -89,7 +89,19 @@ txt5('images/vispol.png',
 </div>
 ''')
 st.markdown('''
-### Projects (_On going_)
+#### Under Review
+''')
+txt5('images/vispol2.png', 
+'''
+<div style="text-align: left">
+<b> <a> VISPOL: Comprehensive Analysis of Visual Pollution Detection and Its Real-World Application </a> </b> <br>
+-	Comprehensive analysis of visual pollution on state of the art object detection models<br>
+-	End to end incremental learning based data collection and analytics system for visual pollution.
+</div>
+''')
+
+st.markdown('''
+### Projects (_On progress_)
 ''')
 
 txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
@@ -120,18 +132,6 @@ txt5('images/drkd.png',
 <b> <a> Application of a novel knowledge distillation method on OCR models </a> </b> <br>
 
 Trying to improve OCR model using a novel knowledge distillation method. Currently optimizing the algorithm and experimenting on different dataset.
-</div>
-''')
-
-txt5('images/vispol2.png', 
-'''
-<div style="text-align: left">
-<b> <a> Real World Application of an Object Detection System including Comprehensive Analysis on Different Models </a> </b> <br>
-
--	The mobile app helps to get image and location of a particular interest<br>
--	The collected data gets processed for visualization and further research of the object detection problem<br>
--	Improve model through incremental learning using the collected images. Separate portal to view performance<br>
--	Comprehensive analysis of the dataset on different state of the art models<br>
 </div>
 ''')
 
