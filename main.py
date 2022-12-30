@@ -103,6 +103,13 @@ txt5('images/vispol2.png',
 st.markdown('''
 #### On progress
 ''')
+txt5('images/vit.png', 
+'''
+<div style="text-align: left">
+<b> <a> Efficient CNN Model for Biomedical Image Classification Utilizing Vision Transorfmer </a> </b> <br>
+Trying to improve CNN model for biomedical image classification model utilizing vision transformer
+</div>
+''')
 
 txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
 '''
@@ -112,17 +119,6 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 -       ECG monitoring web app <br>
 -       Incremental learning approach to learn and update arrhythmia detection model continuously through patient data <br>
 <a href="https://github.com/ifran-rahman/Heartisan">code</a> 
-</div>
-''')
-
-txt5('images/data_analytics.png', 
-'''
-<div style="text-align: left">
-<b> <a> Customer Sales Data Analysis and Revenue Prediction</a> </b> <br>
-
-Customer data analysis using Google Looker Studio (Data Studio). Deployed Revenue prediction model.<br>
-<a href="https://ifran-rahman-customer-data-analysis-prediction-api-qhfvfk.streamlitapp.com/">deployed site</a> &nbsp;
-<a href="https://datastudio.google.com/reporting/8d8f0ff8-b3b2-4ec2-8556-f095e695c55e">dashboard</a> &nbsp;
 </div>
 ''')
 
@@ -146,6 +142,16 @@ solution from scratch, including building dataset, training models and building 
 
 st.markdown('''
 ### Projects (_Previous_)
+''')
+txt5('images/data_analytics.png', 
+'''
+<div style="text-align: left">
+<b> <a> Customer Sales Data Analysis and Revenue Prediction</a> </b> <br>
+
+Customer data analysis using Google Looker Studio (Data Studio). Deployed Revenue prediction model.<br>
+<a href="https://ifran-rahman-customer-data-analysis-prediction-api-qhfvfk.streamlitapp.com/">deployed site</a> &nbsp;
+<a href="https://datastudio.google.com/reporting/8d8f0ff8-b3b2-4ec2-8556-f095e695c55e">dashboard</a> &nbsp;
+</div>
 ''')
 
 txt5('images/janao.png', 
