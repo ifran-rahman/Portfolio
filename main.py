@@ -125,7 +125,7 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 txt5('images/drkd.png', 
 '''
 <div style="text-align: left">
-<b> <a> Application of a novel knowledge distillation method on OCR models </a> </b> <br>
+<b> <a> Novel Knowledge Distillation Method for CRNN models </a> </b> <br>
 
 Trying to improve OCR model using a novel knowledge distillation method. Currently optimizing the algorithm and experimenting on different dataset.
 </div>
