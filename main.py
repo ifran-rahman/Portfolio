@@ -106,8 +106,8 @@ st.markdown('''
 txt5('images/VIT.png', 
 '''
 <div style="text-align: left">
-<b> <a> Efficient CNN Model for Biomedical Image Classification Utilizing Vision Transorfmer </a> </b> <br>
-Trying to improve CNN model for biomedical image classification model utilizing vision transformer
+<b> <a> Efficient Model for Biomedical Image Classification Utilizing Vision Transorfmer </a> </b> <br>
+Trying to improve a lightweight model for biomedical image classification model utilizing vision transformer
 </div>
 ''')
 
