@@ -89,7 +89,7 @@ txt5('images/vispol.png',
 </div>
 ''')
 st.markdown('''
-#### Under Review
+#### Under Review (_Journal_)
 ''')
 txt5('images/vispol2.png', 
 '''
@@ -101,7 +101,7 @@ txt5('images/vispol2.png',
 ''')
 
 st.markdown('''
-### Projects (_On progress_)
+### _On progress_
 ''')
 
 txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
