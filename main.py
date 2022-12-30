@@ -103,7 +103,7 @@ txt5('images/vispol2.png',
 st.markdown('''
 #### On progress
 ''')
-txt5('images/vit.png', 
+txt5('images/VIT.png', 
 '''
 <div style="text-align: left">
 <b> <a> Efficient CNN Model for Biomedical Image Classification Utilizing Vision Transorfmer </a> </b> <br>
