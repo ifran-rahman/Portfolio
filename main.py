@@ -102,14 +102,14 @@ txt5('images/vispol2.png',
 
 st.markdown('''
 #### On progress
-''')
-txt5('images/VIT.png', 
-'''
-<div style="text-align: left">
-<b> <a> Efficient Model for Biomedical Image Classification Utilizing Vision Transorfmer </a> </b> <br>
-Trying to improve a lightweight model for biomedical image classification model utilizing vision transformer
-</div>
-''')
+# ''')
+# txt5('images/VIT.png', 
+# '''
+# <div style="text-align: left">
+# <b> <a> Efficient Model for Biomedical Image Classification Utilizing Vision Transorfmer </a> </b> <br>
+# Trying to improve a lightweight model for biomedical image classification model utilizing vision transformer
+# </div>
+# ''')
 
 txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
 '''
