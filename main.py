@@ -22,7 +22,7 @@ I had a paper published in which we worked on solving a vital environmental prob
 
 Apart from academics, I have participated in many contests. I was highly engaged in co-curricular activities. During last two years of my bachelors I served as the coordinator of Team R&D and one of the Sub-executives of Team Provision at <a href='https://nsusc.acm.org/home.html' >NSU ACM SC</a>.
 
-In my free time, I love watching movie, seriese, traveling etc. I like to try out new recepies from time to time as well.
+In my free time, I love watching movies, series, traveling, etc. I like to try out new recipes from time to time as well.
 <br>
 </div>
 <div class="text-center">
@@ -197,7 +197,10 @@ st.markdown('''
 st.markdown('''
 ### Work Experience
 ''')
-
+txt('**Research Assistant**, TnR Lab, *North South University*, Bangladesh','JAN 2023 - Present')
+st.markdown('''
+- Working on building a data secured ML pipeline.
+''')
 txt('**Apprentice**, Data Science Department, *Cramstack Limited*, Bangladesh','FEB 2022 - MAY 2022')
 st.markdown('''
 - Researched OCR apis and wrote documentation on various topics.
