@@ -99,7 +99,11 @@ txt5('images/vispol2.png',
 -	End to end incremental learning based data collection and analytics system for visual pollution.
 </div>
 ''')
-#### On Going
+
+st.markdown('''
+#### On Progress
+''')
+
 txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
 '''
 <div style="text-align: left">
