@@ -51,7 +51,7 @@ st.markdown("""
         <a class="nav-link disabled" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#Research-and-Publications">Research</a>
+        <a class="nav-link" href="#research-and-publications">Research</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#resume">Resume</a>
