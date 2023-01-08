@@ -51,7 +51,7 @@ st.markdown("""
         <a class="nav-link disabled" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#publications-and-projects">Research</a>
+        <a class="nav-link" href="#Research and Publications">Research</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#resume">Resume</a>
@@ -100,17 +100,6 @@ txt5('images/vispol2.png',
 </div>
 ''')
 
-st.markdown('''
-#### On progress
-# ''')
-# txt5('images/VIT.png', 
-# '''
-# <div style="text-align: left">
-# <b> <a> Efficient Model for Biomedical Image Classification Utilizing Vision Transorfmer </a> </b> <br>
-# Trying to improve a lightweight model for biomedical image classification model utilizing vision transformer
-# </div>
-# ''')
-
 txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
 '''
 <div style="text-align: left">
@@ -118,7 +107,7 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 -       Currently working on testing the proposed incremental learning pipeline <br>
 -       ECG monitoring web app <br>
 -       Incremental learning approach to learn and update arrhythmia detection model continuously through patient data <br>
-<a href="https://github.com/ifran-rahman/Heartisan">code</a> 
+<a href="https://github.com/ifran-rahman/Heartisan">repo</a> 
 </div>
 ''')
 
@@ -161,7 +150,7 @@ txt5('images/janao.png',
 
 -	Users can send image, location and information of a crime scene immediately to the law enforcement agency <br>
 -	Law enforcement agency has another application to receive and view the sent crimes and details list
-<a href="https://github.com/ifran-rahman/Janao">code</a> 
+<a href="https://github.com/ifran-rahman/Janao">repo</a> 
 </div>
 ''')
 
@@ -174,7 +163,7 @@ A mobile application to digitize and manage documents and files of a particular 
 -	View all employee’s public profile and files <br>
 -	Private repository for private files <br>
 -	Upload and capture document images and other files 
-<a href="https://github.com/ifran-rahman/Document-Digitization-Service">code</a> 
+<a href="https://github.com/ifran-rahman/Document-Digitization-Service">repo</a> 
 </div>
 ''')
 
