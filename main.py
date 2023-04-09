@@ -233,7 +233,7 @@ st.markdown('''
 txt5('images/ic.jpg', 
 '''
 <div style="text-align: left">
-<b> Champion</b>, Best Poster Category, <i>Innovation Challene, 2022 </i> <br>
+<b> Champion</b>, Best Poster Category, <i>Innovation Challenge, 2022 </i> <br>
 
 Final year thesis showcase.</div>
 ''')
