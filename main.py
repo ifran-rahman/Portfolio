@@ -16,8 +16,7 @@ homeview( image,
 <div style="text-align: left"> 
 <h1> Ifran Rahman Nijhum </h1>
 
-I am a Research Assistant at TnR Lab at North South University. Previously I worked at <a href='https://cramstack.com/'>
-Cramstack</a> as a data science intern. I completed my BS in CSE from <a href= 'http://www.northsouth.edu/'>North South University</a>, Bangladesh. I am currently working on some computer vision and biomedical-based publications. I have experience and interest in working with Machine Learning and Mobile Application Development. 
+I'm a lecturer at RTM Al-Kabir Technical University and a Research Assistant at TnR Lab at North South University.I completed my BS in CSE from <a href= 'http://www.northsouth.edu/'>North South University</a>, Bangladesh. I am currently working on some computer vision and biomedical-based publications. I have experience and interest in working with Machine Learning and Mobile Application Development. 
 I had a paper published in which we worked on solving a vital environmental problem through deep learning.
 
 Apart from academics, I have participated in many contests. I was highly engaged in co-curricular activities. During last two years of my bachelors I served as the coordinator of Team R&D and one of the Sub-executives of Team Provision at <a href='https://nsusc.acm.org/home.html' >NSU ACM SC</a>.
