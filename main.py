@@ -28,7 +28,8 @@ In my free time, I love watching movies, series, traveling, etc. I like to try o
 <div class="text-center">
   <a href="https://www.linkedin.com/in/ifran-rahman-nijhum-1421b8179/" class="btn btn-light" style="color: #000000">LinkedIn</a>
   <a href="https://github.com/ifran-rahman" class="btn btn-light" style="color: #000000">Github</a>
-  <a href=" https://www.researchgate.net/profile/Ifran_Rahman" class="btn btn-light" style="color: #000000">Researchgate</a>
+  <a href=" https://www.researchgate.net/profile/Ifran_Rahman" class="btn btn-light" style="color: #000000">
+  gate</a>
   <a href="https://medium.com/@ifranrahmannijhum-1215" class="btn btn-light" style="color: #000000">Medium</a>  
   </div>
 ''')
@@ -202,6 +203,10 @@ st.markdown('''
 st.markdown('''
 ### Work Experience
 ''')
+txt('**Lecturer**, Department of Computer Science & Engineering, *RTM Al-Kabir Technical University*, Bangladesh','FEB 2023 - Present')
+# st.markdown('''
+# - 
+# ''')
 txt('**Research Assistant**, TnR Lab, *North South University*, Bangladesh','JAN 2023 - Present')
 st.markdown('''
 - Working on building a data secured ML pipeline.
