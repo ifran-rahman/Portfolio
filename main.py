@@ -89,7 +89,7 @@ txt5('images/',
 </div>
 ''')
 ######(**Accepted**)
-txt5('images/vispol.png', 
+txt5( , 
 '''
 <div style="text-align: left">
 <b> <a href=""> (_Accepted_) Usability of Pre-trained Diffusion Models in Generating Novel Datasets and Its Performance Evaluation </a> </b> <br>
@@ -142,9 +142,9 @@ st.markdown('''
 txt5('images/drkd.png', 
 '''
 <div style="text-align: left">
-<b> <a> Novel Knowledge Distillation Method for CRNN models </a> </b> <br>
+<b> <a> Dynamic Rectification Knowledge Distillation Method for CRNN models </a> </b> <br>
 
-Trying to improve OCR model using a novel knowledge distillation method. Currently optimizing the algorithm and experimenting on different dataset.
+Improved OCR model using a novel knowledge distillation method. 
 </div>
 ''')
 
