@@ -220,7 +220,7 @@ st.markdown('''
 ### Skills
 ''')
 txt3('`Programming`', '`Python` `Java` `Familiar with:`  `C` `C++` `Arduino`')
-txt3('`Frameworks`', '`Pytorch` `TensorFlow` `Keras` `Native Android (Java)` `Flutter`')
+txt3('`Frameworks`', '`Pytorch` `TensorFlow` `Keras` `Fast API` `Flower for Federated Learning` `Native Android (Java)` `Flutter`')
 txt3('`Database`', '`MySQL` `Firebase`')
 txt3('`Version Control and Tools`', '`Git` `GitHub` `Bitbucket`')
 txt3('`Data visualization`', '`Google Data Studio` `matplotlib` `seaborn` `plotly`')
