@@ -88,7 +88,7 @@ txt5('images/vispol.png',
 <b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
 </div>
 ''')
-(_Accepted_)
+######(_Accepted_)
 txt5('images/vispol.png', 
 '''
 <div style="text-align: left">
