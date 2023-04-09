@@ -88,11 +88,11 @@ txt5('images/vispol.png',
 <b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
 </div>
 ''')
-######(_Accepted_)
+######(_**Accepted**_)
 txt5('images/vispol.png', 
 '''
 <div style="text-align: left">
-<b> <a href=""> Usability of Pre-trained Diffusion Models in Generating Novel Datasets and Its Performance Evaluation </a> </b> <br>
+<b> <a href=""> (_Accepted_) Usability of Pre-trained Diffusion Models in Generating Novel Datasets and Its Performance Evaluation </a> </b> <br>
 <b> Authors: </b> Yearat Hossain, Md. Mahbub Hasan Rakib, Ifran Rahman Nijhum <br>
 <b> Conference: </b> 7th International Conference on Innovation in Artificial Intelligence, ICIAI 2023 Harbin, China 
 </div>
