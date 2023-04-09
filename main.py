@@ -88,8 +88,8 @@ txt5('images/',
 <b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
 </div>
 ''')
-######(**Accepted**)
-txt5( , 
+
+txt5( 'images/acm_detection.png', 
 '''
 <div style="text-align: left">
 <b> <a href=""> (_Accepted_) Usability of Pre-trained Diffusion Models in Generating Novel Datasets and Its Performance Evaluation </a> </b> <br>
