@@ -89,7 +89,7 @@ txt5('images/',
 </div>
 ''')
 
-txt5( 'images/acm_detection.png', 
+txt5( 'images/vispol2.png', 
 '''
 <div style="text-align: left">
 <b> <a href=""> (_Accepted_) Usability of Pre-trained Diffusion Models in Generating Novel Datasets and Its Performance Evaluation </a> </b> <br>
