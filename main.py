@@ -115,14 +115,6 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 </div>
 ''')
 
-txt5('images/drkd.png', 
-'''
-<div style="text-align: left">
-<b> <a> Novel Knowledge Distillation Method for CRNN models </a> </b> <br>
-
-Trying to improve OCR model using a novel knowledge distillation method. Currently optimizing the algorithm and experimenting on different dataset.
-</div>
-''')
 
 txt5('https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/12/Screenshot-from-2018-11-29-13-03-17.png', 
 '''
@@ -136,6 +128,16 @@ solution from scratch, including building dataset, training models and building 
 st.markdown('''
 ### Projects (_Previous_)
 ''')
+
+txt5('images/drkd.png', 
+'''
+<div style="text-align: left">
+<b> <a> Novel Knowledge Distillation Method for CRNN models </a> </b> <br>
+
+Trying to improve OCR model using a novel knowledge distillation method. Currently optimizing the algorithm and experimenting on different dataset.
+</div>
+''')
+
 txt5('images/data_analytics.png', 
 '''
 <div style="text-align: left">
