@@ -111,7 +111,7 @@ txt5('images/vispol2.png',
 ''')
 
 st.markdown('''
-#### On Progress
+#### Under Review
 ''')
 
 txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
@@ -126,14 +126,14 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 ''')
 
 
-txt5('https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/12/Screenshot-from-2018-11-29-13-03-17.png', 
-'''
-<div style="text-align: left">
-<b> <a> Solving a Local Object Detection Problem</a> </b> <br>
+# txt5('https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/12/Screenshot-from-2018-11-29-13-03-17.png', 
+# '''
+# <div style="text-align: left">
+# <b> <a> Solving a Local Object Detection Problem</a> </b> <br>
 
-Leading a group of 10 undergrad students from <a href='https://nsusc.acm.org/home.html' >NSU ACM SC</a>, to solve a local object detection problem. Guiding them from to build a 
-solution from scratch, including building dataset, training models and building mobile application etc</div>
-''')
+# Leading a group of 10 undergrad students from <a href='https://nsusc.acm.org/home.html' >NSU ACM SC</a>, to solve a local object detection problem. Guiding them from to build a 
+# solution from scratch, including building dataset, training models and building mobile application etc</div>
+# ''')
 
 st.markdown('''
 ### Projects (_Previous_)
