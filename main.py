@@ -118,7 +118,6 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 '''
 <div style="text-align: left">
 <b> <a> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System </a> </b> <br>
--       Currently working on testing the proposed incremental learning pipeline <br>
 -       ECG monitoring web app <br>
 -       Incremental learning approach to learn and update arrhythmia detection model continuously through patient data <br>
 <a href="https://github.com/ifran-rahman/Heartisan">repo</a> 
@@ -163,7 +162,6 @@ txt5('images/janao.png',
 '''
 <div style="text-align: left">
 <b> <a> Janao: Public Harassment & Crime Reporting System </a> </b> <br>
-
 -	Users can send image, location and information of a crime scene immediately to the law enforcement agency <br>
 -	Law enforcement agency has another application to receive and view the sent crimes and details list
 <a href="https://github.com/ifran-rahman/Janao">repo</a> 
@@ -254,7 +252,7 @@ st.markdown('''
 
 txt('**Coordinator**, Team Research & Development, *NSU ACM Student Chapter*','Jan 2020 - Jan 2022')
 st.markdown('''
-- Currently instructing a research project. (Stated in the project section of this website).
+# - Currently instructing a research project. (Stated in the project section of this website).
 - Managed an international programming contest “Semi-code”, Inter-University Hackathon "HackNSU Season 3”. 
 - Planned and arranged intra hackathons, programming contests, and team meetings. 
 ''')
