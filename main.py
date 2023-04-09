@@ -80,7 +80,7 @@ st.markdown('''
 ### Publications
 ''')
 
-txt5('images/', 
+txt5('images/acm_detection.png', 
 '''
 <div style="text-align: left">
 <b> <a href="https://ieeexplore.ieee.org/document/9666654"> Visual Pollution Detection Using Google Street View and YOLO </a> </b> <br>
