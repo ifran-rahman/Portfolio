@@ -211,15 +211,11 @@ txt('**Research Assistant**, TnR Lab, *North South University*, Bangladesh','JAN
 st.markdown('''
 - Working on building a data secured ML pipeline.
 ''')
-txt('**Apprentice**, Data Science Department, *Cramstack Limited*, Bangladesh','FEB 2022 - MAY 2022')
+txt('**Intern**, Data Science Department, Cramstack Limited, Bangladesh','NOV 2021 – MAY 2022')
 st.markdown('''
-- Researched OCR apis and wrote documentation on various topics.
-- Worked on data cleaning and preparation. Used google data studio for visualization.
-''')
-txt('**Intern**, Data Science Department, Cramstack Limited, Bangladesh','NOV 2021 – JAN 2022')
-st.markdown('''
-- Wrote scrips for a doc management application for document manipulation, ocr etc.
-- Worked on data cleaning and preparation. Used google data studio for visualization.
+- Research and writing documentations on text summarizers, OCR APIs 
+- Document processing, data extraction for a file management application.
+- Data cleaning, processing and visualization using BI tool.
 ''')
 
 #####################
