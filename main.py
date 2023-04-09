@@ -28,7 +28,7 @@ In my free time, I love watching movies, series, traveling, etc. I like to try o
   <a href="https://www.linkedin.com/in/ifran-rahman-nijhum-1421b8179/" class="btn btn-light" style="color: #000000">LinkedIn</a>
   <a href="https://github.com/ifran-rahman" class="btn btn-light" style="color: #000000">Github</a>
   <a href=" https://www.researchgate.net/profile/Ifran_Rahman" class="btn btn-light" style="color: #000000">
-  gate</a>
+  Researchgate</a>
   <a href="https://medium.com/@ifranrahmannijhum-1215" class="btn btn-light" style="color: #000000">Medium</a>  
   </div>
 ''')
