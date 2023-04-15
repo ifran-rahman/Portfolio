@@ -89,10 +89,10 @@ txt5('images/acm_detection.png',
 </div>
 ''')
 
-txt5( 'images/vispol2.png', 
+txt5( 'images/black_square.png', 
 '''
 <div style="text-align: left">
-<b> <a href=""> (_Accepted_) Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network </a> </b> <br>
+<b> <a href="">Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_) </a> </b> <br>
 <b> Authors: </b> M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman. <br>
 <b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.</div>
 ''')
