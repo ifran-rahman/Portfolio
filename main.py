@@ -135,8 +135,6 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 
 st.markdown('''
 ### Projects 
-
-(_Previous_)
 txt5('images/drkd.png', 
 '''
 <div style="text-align: left">
