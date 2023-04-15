@@ -134,7 +134,14 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 # ''')
 
 st.markdown('''
-### Projects (_Previous_)
+### Projects 
+''')
+txt5('https://www.researchgate.net/publication/350720259/figure/fig2/AS:1010160138989570@1617852353760/Flower-Android-client-architecture.ppm', 
+'''
+<div style="text-align: left">
+<b> <a> Data Secured Biomedical Software </a> </b> <br>
+Working on building the federated learning and machine learning pipeline. 
+</div>
 ''')
 
 txt5('images/drkd.png', 
