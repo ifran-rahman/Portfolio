@@ -134,12 +134,15 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 # ''')
 
 st.markdown('''
-### Projects 
+### Projects (_Previous_)
+''')
+
 txt5('images/drkd.png', 
 '''
 <div style="text-align: left">
 <b> <a> Dynamic Rectification Knowledge Distillation Method for CRNN models </a> </b> <br>
-Improved Bangla-OCR model using a novel knowledge distillation method. 
+
+Improved OCR model using a novel knowledge distillation method. 
 </div>
 ''')
 
