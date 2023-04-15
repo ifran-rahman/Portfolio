@@ -134,15 +134,21 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 # ''')
 
 st.markdown('''
-### Projects (_Previous_)
+### Projects 
+(_On Going_)
+txt5('images/drkd.png', 
+'''
+<div style="text-align: left">
+<b> <a> Data Secured Biomedical Software </a> </b> <br>
+Working on building the federated learning and machine learning pipeline. 
+</div>
 ''')
-
+(_Previous_)
 txt5('images/drkd.png', 
 '''
 <div style="text-align: left">
 <b> <a> Dynamic Rectification Knowledge Distillation Method for CRNN models </a> </b> <br>
-
-Improved OCR model using a novel knowledge distillation method. 
+Improved Bangla-OCR model using a novel knowledge distillation method. 
 </div>
 ''')
 
