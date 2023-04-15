@@ -92,10 +92,9 @@ txt5('images/acm_detection.png',
 txt5( 'images/vispol2.png', 
 '''
 <div style="text-align: left">
-<b> <a href=""> (_Accepted_) Usability of Pre-trained Diffusion Models in Generating Novel Datasets and Its Performance Evaluation </a> </b> <br>
-<b> Authors: </b> Yearat Hossain, Md. Mahbub Hasan Rakib, Ifran Rahman Nijhum <br>
-<b> Conference: </b> 7th International Conference on Innovation in Artificial Intelligence, ICIAI 2023 Harbin, China 
-</div>
+<b> <a href=""> (_Accepted_) Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network </a> </b> <br>
+<b> Authors: </b> M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman. <br>
+<b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.</div>
 ''')
 
 st.markdown('''
