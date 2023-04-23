@@ -274,3 +274,5 @@ st.markdown('''
 ''')
 txt2('Email', 'ifran.nijhum@northsouth.edu')
 txt2('Personal Email', 'ifranrahmannijhum@gmail.com')
+txt2(' ', ' ')
+
