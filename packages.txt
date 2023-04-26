@@ -1,1 +1,4 @@
 libtk8.6
+build-essential
+python-dev
+default-libmysqlclient-dev
