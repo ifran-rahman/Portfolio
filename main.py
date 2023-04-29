@@ -83,7 +83,7 @@ st.markdown('''
 txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
 '''
 <div style="text-align: left">
-<b> <a> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System </a> </b> <br>
+<b> <a> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System (_Accepted_)</a> </b> <br>
 <b> Authors: </b> Ifran Rahman Nijhum, Anan Ghosh, Hasibul Hassan, Yearat Hossain, Tanzilur Rahman <br>
 <b> Conference: </b> IEEE 36th International Symposium on Computer Based Medical Systems (CBMS) 2023
 <a href="https://github.com/ifran-rahman/Heartisan">repo</a> 
@@ -92,7 +92,7 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 txt5( 'images/black_square.png', 
 '''
 <div style="text-align: left">
-<b> <a href="">Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_) </a> </b> <br>
+<b> <a>Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_) </a> </b> <br>
 <b> Authors: </b> M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman. <br>
 <b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.</div>
 ''')
