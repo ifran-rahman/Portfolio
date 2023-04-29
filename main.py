@@ -80,15 +80,15 @@ st.markdown('''
 ### Publications
 ''')
 
-txt5('images/vispol.png', 
+txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
 '''
 <div style="text-align: left">
-<b> <a href="https://ieeexplore.ieee.org/document/9666654"> Visual Pollution Detection Using Google Street View and YOLO </a> </b> <br>
-<b> Authors: </b> Yearat Hossain, Ifran Rahman Nijhum, Abu Adnan Sadi, Md. Tazin Morshed Shad, Rashedur M. Rahman <br>
-<b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
+<b> <a> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System </a> </b> <br>
+<b> Authors: </b> Ifran Rahman Nijhum, Anan Ghosh, Hasibul Hassan, Yearat Hossain, Tanzilur Rahman <br>
+<b> Conference: </b> IEEE 36th International Symposium on Computer Based Medical Systems (CBMS) 2023
+<a href="https://github.com/ifran-rahman/Heartisan">repo</a> 
 </div>
 ''')
-
 txt5( 'images/black_square.png', 
 '''
 <div style="text-align: left">
@@ -97,13 +97,12 @@ txt5( 'images/black_square.png',
 <b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.</div>
 ''')
 
-txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
+txt5('images/vispol.png', 
 '''
 <div style="text-align: left">
-<b> <a> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System </a> </b> <br>
-<b> Authors: </b> Ifran Rahman Nijhum, Anan Ghosh, Hasibul Hassan, Yearat Hossain, Tanzilur Rahman <br>
-<b> Conference: </b> IEEE 36th International Symposium on Computer Based Medical Systems (CBMS) 2023
-<a href="https://github.com/ifran-rahman/Heartisan">repo</a> 
+<b> <a href="https://ieeexplore.ieee.org/document/9666654"> Visual Pollution Detection Using Google Street View and YOLO </a> </b> <br>
+<b> Authors: </b> Yearat Hossain, Ifran Rahman Nijhum, Abu Adnan Sadi, Md. Tazin Morshed Shad, Rashedur M. Rahman <br>
+<b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
 </div>
 ''')
 
