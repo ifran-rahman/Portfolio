@@ -97,6 +97,16 @@ txt5( 'images/black_square.png',
 <b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.</div>
 ''')
 
+txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
+'''
+<div style="text-align: left">
+<b> <a> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System </a> </b> <br>
+<b> Authors: </b> Ifran Rahman Nijhum, Anan Ghosh, Hasibul Hassan, Yearat Hossain, Tanzilur Rahman <br>
+<b> Conference: </b> IEEE 36th International Symposium on Computer Based Medical Systems (CBMS) 2023
+<a href="https://github.com/ifran-rahman/Heartisan">repo</a> 
+</div>
+''')
+
 st.markdown('''
 #### In Revision (_Decision Analytics Journal_)
 ''')
@@ -112,17 +122,6 @@ txt5('images/vispol2.png',
 st.markdown('''
 #### Under Review
 ''')
-
-txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
-'''
-<div style="text-align: left">
-<b> <a> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System </a> </b> <br>
--       ECG monitoring web app <br>
--       Incremental learning approach to learn and update arrhythmia detection model continuously through patient data <br>
-<a href="https://github.com/ifran-rahman/Heartisan">repo</a> 
-</div>
-''')
-
 
 # txt5('https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/12/Screenshot-from-2018-11-29-13-03-17.png', 
 # '''
