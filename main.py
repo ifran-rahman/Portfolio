@@ -85,7 +85,7 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 <div style="text-align: left">
 <b> <a> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System (_Accepted_)</a> </b> <br>
 <b> Authors: </b> Ifran Rahman Nijhum, Anan Ghosh, Hasibul Hassan, Yearat Hossain, Tanzilur Rahman <br>
-<b> Conference: </b> IEEE 36th International Symposium on Computer Based Medical Systems (CBMS) 2023
+<b> Conference: </b> IEEE 36th International Symposium on Computer Based Medical Systems (CBMS) 2023, L'Aquila, Italy, 22nd - 24th June, 2023.
 <a href="https://github.com/ifran-rahman/Heartisan">repo</a> 
 </div>
 ''')
