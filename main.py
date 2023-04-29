@@ -118,9 +118,9 @@ txt5('images/vispol2.png',
 </div>
 ''')
 
-st.markdown('''
-#### Under Review
-''')
+# st.markdown('''
+# #### Under Review
+# ''')
 
 # txt5('https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/12/Screenshot-from-2018-11-29-13-03-17.png', 
 # '''
