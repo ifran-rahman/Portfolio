@@ -256,9 +256,9 @@ st.markdown('''
 
 txt('**Coordinator**, Team Research & Development, *NSU ACM Student Chapter*','Jan 2020 - Jan 2022')
 st.markdown('''
-- Instructed a object detection research project. 
+- Instructed an object detection research project. 
 - Managed an international programming contest “Semi-code”, Inter-University Hackathon "HackNSU Season 3”. 
-- Planned and arranged intra hackathons, programming contests, and team meetings. 
+- Planned and arranged intra-hackathons, programming contests, and team meetings. 
 ''')
 txt('**Sub Executive**, Team Provision, *NSU ACM Student Chapter*', 'Nov 2020 - Feb 2022')
 st.markdown('''
