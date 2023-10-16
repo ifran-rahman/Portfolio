@@ -277,7 +277,7 @@ st.markdown('''
 st.markdown('''
 ## Contact
 ''')
-txt2('Email', 'ifran.nijhum@northsouth.edu')
+txt2('Email', 'ifran.nijhum@ucdconnect.ie')
 txt2('Personal Email', 'ifranrahmannijhum@gmail.com')
 txt2(' ', ' ')
 
