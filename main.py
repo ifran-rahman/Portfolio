@@ -7,7 +7,7 @@ st.set_page_config(
 )
 with open("style.css") as f:
     st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
-image = Image.open('https://github.com/ifran-rahman/Heartisan/blob/main/images/dp-2.png')
+image = Image.open('https://github.com/ifran-rahman/Portfolio/blob/main/images/dp-2.png')
 
 #####################
 # Header 
