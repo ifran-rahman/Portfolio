@@ -198,9 +198,8 @@ st.markdown('''
 ''')
 st.markdown('''
 **Doctor of Philosophy - PhD**, *University College Dublin*, Ireland
-- Research on - `Accurate Forecasting of Photovoltaic Potential for Efficient
-- Research thesis entitled `Implementing Different Knowledge Distillation methods on Bangla OCR`
-Integration into Residential Homes`
+- Research thesis entitled `Accurate Forecasting of Photovoltaic Potential for Efficient Integration into Residential Homes`
+
 ''')
 
 st.markdown('''
