@@ -89,6 +89,7 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 <a href="https://github.com/ifran-rahman/Heartisan">repo</a> 
 </div>
 ''')
+
 txt5( 'images/black_square.png', 
 '''
 <div style="text-align: left">
@@ -194,6 +195,11 @@ st.markdown('''
 
 st.markdown('''
 ### Education
+''')
+st.markdown('''
+**Doctor of Philosophy - PhD**, *University College Dublin*, Ireland
+- Research on - Accurate Forecasting of Photovoltaic Potential for Efficient
+Integration into Residential Homes
 ''')
 
 st.markdown('''
