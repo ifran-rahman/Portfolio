@@ -15,13 +15,14 @@ homeview( image,
 '''
 <div style="text-align: left"> 
 <h1> Ifran Rahman Nijhum </h1>
+I am currently a PhD student at University College Dublin in Ireland, specializing in solar power forecasting and estimation using artificial intelligence techniques. I work at the THEIA lab at UCD. My primary research interest lies in the application of artificial intelligence in different domains. 
 
-I'm a lecturer at <a href= 'https://www.rtm-aktu.edu.bd/'>RTM Al-Kabir Technical University</a> and a Research Assistant at TnR Lab at North South University. I completed my BS in CSE from <a href= 'http://www.northsouth.edu/'>North South University</a>, Bangladesh. I am currently working on some computer vision and biomedical-based publications. I have experience and interest in working with Machine Learning and Mobile Application Development. 
-
+Previously, I served as a Lecturer at <a href= 'https://www.rtm-aktu.edu.bd/'>RTM Al-Kabir Technical University</a> and work as a Research Assistant at <a href= 'https://sites.google.com/site/tanzilctg/Home'>TnR Lab</a>, North South University. My academic and research journey began with a Bachelor of Science degree in Computer Science and Engineering from <a href= 'http://www.northsouth.edu/'>North South University</a>, Bangladesh.
 
 Apart from academics, I have participated in many contests. I was highly engaged in co-curricular activities. During last two years of my bachelors I served as the coordinator of Team R&D and one of the Sub-executives of Team Provision at <a href='https://nsusc.acm.org/home.html' >NSU ACM SC</a>.
 
-In my free time, I love watching movies, series, traveling, etc. I like to try out new recipes from time to time as well.
+In my free time, I love watching movies, series, traveling and taking photos. I like to try out new recipes from time to time as well!
+
 <br>
 </div>
 <div class="text-center">
@@ -199,7 +200,6 @@ st.markdown('''
 st.markdown('''
 **Doctor of Philosophy - PhD**, *University College Dublin*, Ireland
 - Research topic - `Accurate Forecasting of Photovoltaic Potential for Efficient Integration into Residential Homes`
-
 ''')
 
 st.markdown('''
