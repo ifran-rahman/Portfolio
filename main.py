@@ -106,15 +106,16 @@ txt5('images/vispol.png',
 </div>
 ''')
 
-st.markdown('''
-#### In Revision (_Decision Analytics Journal_)
-''')
+# st.markdown('''
+# #### In Revision (_Decision Analytics Journal_)
+# ''')
 txt5('images/vispol2.png', 
 '''
 <div style="text-align: left">
 <b> <a> Development of an End-to-End Visual Pollution Analysis System Through Comprehensive Study of Object Detection Algorithms </a> </b> <br>
 -	Comprehensive analysis of visual pollution on state of the art object detection models<br>
 -	End to end incremental learning based data collection and analytics system for visual pollution.
+<b> Journal: </b> Decision Analytics Journal | Elsavier
 </div>
 ''')
 
