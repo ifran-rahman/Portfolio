@@ -96,7 +96,15 @@ txt5( 'images/black_square.png',
 <b> Authors: </b> M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman. <br>
 <b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.</div>
 ''')
-
+txt5('images/vispol2.png', 
+'''
+<div style="text-align: left">
+<b> <a> Development of an End-to-End Visual Pollution Analysis System Through Comprehensive Study of Object Detection Algorithms </a> </b> <br>
+-	Comprehensive analysis of visual pollution on state of the art object detection models<br>
+-	End to end incremental learning based data collection and analytics system for visual pollution.
+<b> Journal: </b> Decision Analytics Journal | Elsavier
+</div>
+''')
 txt5('images/vispol.png', 
 '''
 <div style="text-align: left">
@@ -109,15 +117,7 @@ txt5('images/vispol.png',
 # st.markdown('''
 # #### In Revision (_Decision Analytics Journal_)
 # ''')
-txt5('images/vispol2.png', 
-'''
-<div style="text-align: left">
-<b> <a> Development of an End-to-End Visual Pollution Analysis System Through Comprehensive Study of Object Detection Algorithms </a> </b> <br>
--	Comprehensive analysis of visual pollution on state of the art object detection models<br>
--	End to end incremental learning based data collection and analytics system for visual pollution.
-<b> Journal: </b> Decision Analytics Journal | Elsavier
-</div>
-''')
+
 
 # st.markdown('''
 # #### Under Review
