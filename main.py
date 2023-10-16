@@ -198,8 +198,8 @@ st.markdown('''
 ''')
 st.markdown('''
 **Doctor of Philosophy - PhD**, *University College Dublin*, Ireland
-- Research on - `Accurate Forecasting of Photovoltaic Potential for Efficient`
-Integration into Residential Homes
+- Research on - `Accurate Forecasting of Photovoltaic Potential for Efficient
+Integration into Residential Homes`
 ''')
 
 st.markdown('''
