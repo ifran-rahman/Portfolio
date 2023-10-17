@@ -16,7 +16,7 @@ homeview( image,
 <div style="text-align: left"> 
 <h1> Ifran Rahman Nijhum </h1>
 I am currently a PhD student at University College Dublin in Ireland, specializing in solar power forecasting and estimation using artificial intelligence techniques. I work at the <a href= 'https://soumyabrata.dev/theia/'>THEIA lab</a> at UCD. My primary research interest lies in the application of artificial intelligence in different domains. 
-
+<br>
 Previously, I served as a Lecturer at <a href= 'https://www.rtm-aktu.edu.bd/'>RTM Al-Kabir Technical University</a> and worked as a Research Assistant at <a href= 'https://sites.google.com/site/tanzilctg/Home'>TnR Lab</a>, North South University. My academic and research journey began with a Bachelor of Science degree in Computer Science and Engineering from <a href= 'http://www.northsouth.edu/'>North South University</a>, Bangladesh.
 
 Apart from academics, I have participated in many contests. I was highly engaged in co-curricular activities. During last two years of my bachelors I served as the coordinator of Team R&D and one of the Sub-executives of Team Provision at <a href='https://nsusc.acm.org/home.html' >NSU ACM SC</a>.
