@@ -84,24 +84,17 @@ st.markdown('''
 txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
 '''
 <div style="text-align: left">
-<b> <a> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System (_Accepted_)</a> </b> <br>
+<b>  <a href="https://ieeexplore.ieee.org/abstract/document/10178842"> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System</a> </b> <br>
 <b> Authors: </b> Ifran Rahman Nijhum, Anan Ghosh, Hasibul Hassan, Yearat Hossain, Tanzilur Rahman <br>
 <b> Conference: </b> IEEE 36th International Symposium on Computer Based Medical Systems (CBMS) 2023, L'Aquila, Italy, 22nd - 24th June, 2023.
 <a href="https://github.com/ifran-rahman/Heartisan">repo</a> 
 </div>
 ''')
 
-txt5( 'images/black_square.png', 
-'''
-<div style="text-align: left">
-<b> <a>Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_) </a> </b> <br>
-<b> Authors: </b> M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman. <br>
-<b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.</div>
-''')
 txt5('images/vispol2.png', 
 '''
 <div style="text-align: left">
-<b> <a> Development of an End-to-End Visual Pollution Analysis System Through Comprehensive Study of Object Detection Algorithms </a> </b> <br>
+<b> <a href="https://www.sciencedirect.com/science/article/pii/S2772662223001236"> An end-to-end pollution analysis and detection system using artificial intelligence and object detection algorithms </a> </b> <br>
 -	Comprehensive analysis of visual pollution on state of the art object detection models<br>
 -	End to end incremental learning based data collection and analytics system for visual pollution.
 <b> Journal: </b> Decision Analytics Journal | Elsavier
@@ -115,7 +108,13 @@ txt5('images/vispol.png',
 <b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
 </div>
 ''')
-
+txt5( 'images/black_square.png', 
+'''
+<div style="text-align: left">
+<b> <a>Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_) </a> </b> <br>
+<b> Authors: </b> M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman. <br>
+<b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.</div>
+''')
 # st.markdown('''
 # #### In Revision (_Decision Analytics Journal_)
 # ''')
