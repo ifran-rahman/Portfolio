@@ -197,7 +197,7 @@ st.markdown('''
 ### Education
 ''')
 st.markdown('''
-**Doctor of Philosophy - PhD**, *University College Dublin*, Ireland
+**Doctor of Philosophy - PhD**, *University College Dublin*, Ireland, 2023 - Present
 - Research topic - `Accurate Forecasting of Photovoltaic Potential for Efficient Integration into Residential Homes`
 ''')
 
