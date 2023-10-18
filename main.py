@@ -202,7 +202,7 @@ st.markdown('''
 ''')
 
 st.markdown('''
-**Bachelor of Science in Computer Science and Engineering**, *North South University*, Bangladesh
+**Bachelor of Science in Computer Science and Engineering**, *North South University*, Bangladesh, 2018 - 2022
 - Research thesis entitled `Implementing Different Knowledge Distillation methods on Bangla OCR`
 - `Received Best Poster Award`
 ''')
