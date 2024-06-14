@@ -108,7 +108,7 @@ txt5('images/vispol.png',
 <b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
 </div>
 ''')
-txt5( 
+txt4( 
 '''
 <div style="text-align: left">
 <b> <a>Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_) </a> </b> <br>
