@@ -81,7 +81,7 @@ st.markdown('''
 ### Publications
 ''')
 
-txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
+txt6('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
 '''
 <div style="text-align: left">
 <b>  <a href="https://ieeexplore.ieee.org/abstract/document/10178842"> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System</a> </b> <br>
@@ -90,8 +90,15 @@ txt5('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 <a href="https://github.com/ifran-rahman/Heartisan">repo</a> 
 </div>
 ''')
+txt6('''
+<div style="text-align: left">
+<b> <a>Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_) </a> </b> <br>
+<b> Authors: </b> M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman. <br>
+<b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.
+</div>
+''')
 
-txt5('images/vispol2.png', 
+txt6(
 '''
 <div style="text-align: left">
 <b> <a href="https://www.sciencedirect.com/science/article/pii/S2772662223001236"> An end-to-end pollution analysis and detection system using artificial intelligence and object detection algorithms </a> </b> <br>
@@ -100,7 +107,7 @@ txt5('images/vispol2.png',
 <b> Journal: </b> Decision Analytics Journal | Elsavier
 </div>
 ''')
-txt5('images/vispol.png', 
+txt6(
 '''
 <div style="text-align: left">
 <b> <a href="https://ieeexplore.ieee.org/document/9666654"> Visual Pollution Detection Using Google Street View and YOLO </a> </b> <br>
@@ -109,22 +116,16 @@ txt5('images/vispol.png',
 </div>
 ''')
 
-# txt5( '',
-# '''
-# <div style="text-align: left">
-# <b> <a href="https://ieeexplore.ieee.org/document/9666654"> Visual Pollution Detection Using Google Street View and YOLO </a> </b> <br>
-# <b> Authors: </b> Yearat Hossain, Ifran Rahman Nijhum, Abu Adnan Sadi, Md. Tazin Morshed Shad, Rashedur M. Rahman <br>
-# <b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
-# </div>
-# ''')
-
-txt6('''
+txt6(
+'''
 <div style="text-align: left">
-<b> <a>Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_) </a> </b> <br>
-<b> Authors: </b> M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman. <br>
-<b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.
+<b> <a href="https://ieeexplore.ieee.org/document/9666654"> Visual Pollution Detection Using Google Street View and YOLO </a> </b> <br>
+<b> Authors: </b> Yearat Hossain, Ifran Rahman Nijhum, Abu Adnan Sadi, Md. Tazin Morshed Shad, Rashedur M. Rahman <br>
+<b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
 </div>
 ''')
+
+
 
 st.markdown('''
 ### Projects 
