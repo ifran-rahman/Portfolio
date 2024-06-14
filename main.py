@@ -108,13 +108,10 @@ txt5('images/vispol.png',
 <b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
 </div>
 ''')
-txt4( 
-'''
-<div style="text-align: left">
-<b> <a>Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_) </a> </b> <br>
-<b> Authors: </b> M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman. <br>
-<b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.</div>
-''')
+**[Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_)]**  
+**Authors:** M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman.  
+**Conference:** The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.
+
 # st.markdown('''
 # #### In Revision (_Decision Analytics Journal_)
 # ''')
