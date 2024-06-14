@@ -97,7 +97,6 @@ txt6('''
 <b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.
 </div>
 ''')
-https://link.springer.com/chapter/10.1007/978-3-031-46335-8_4
 txt6(
 '''
 <div style="text-align: left">
