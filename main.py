@@ -109,7 +109,7 @@ txt5('images/vispol.png',
 </div>
 ''')
 
-txt5('images/vispol.png', 
+txt( 
 '''
 <div style="text-align: left">
 <b> <a href="https://ieeexplore.ieee.org/document/9666654"> Visual Pollution Detection Using Google Street View and YOLO </a> </b> <br>
