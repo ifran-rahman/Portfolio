@@ -81,7 +81,7 @@ st.markdown('''
 ### Publications
 ''')
 
-txt6('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
+txt7('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true', 
 '''
 <div style="text-align: left">
 <b>  <a href="https://ieeexplore.ieee.org/abstract/document/10178842"> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System</a> </b> <br>
