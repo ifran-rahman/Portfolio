@@ -109,7 +109,7 @@ txt5('images/vispol.png',
 </div>
 ''')
 
-txt( 
+txt5( 
 '''
 <div style="text-align: left">
 <b> <a href="https://ieeexplore.ieee.org/document/9666654"> Visual Pollution Detection Using Google Street View and YOLO </a> </b> <br>
@@ -117,27 +117,14 @@ txt(
 <b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
 </div>
 ''')
-# **[Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_)]**  
-# **Authors:** M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman.  
-# **Conference:** The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.
 
-# st.markdown('''
-# #### In Revision (_Decision Analytics Journal_)
-# ''')
-
-
-# st.markdown('''
-# #### Under Review
-# ''')
-
-# txt5('https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/12/Screenshot-from-2018-11-29-13-03-17.png', 
-# '''
-# <div style="text-align: left">
-# <b> <a> Solving a Local Object Detection Problem</a> </b> <br>
-
-# Leading a group of 10 undergrad students from <a href='https://nsusc.acm.org/home.html' >NSU ACM SC</a>, to solve a local object detection problem. Guiding them from to build a 
-# solution from scratch, including building dataset, training models and building mobile application etc</div>
-# ''')
+txt5('''
+<div style="text-align: left">
+<b> <a>Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_) </a> </b> <br>
+<b> Authors: </b> M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman. <br>
+<b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.
+</div>
+''')
 
 st.markdown('''
 ### Projects 
