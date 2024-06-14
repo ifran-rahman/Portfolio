@@ -80,15 +80,24 @@ st.markdown('''
 st.markdown('''
 ### Publications
 ''')
-
+txt6(
+'''
+<div style="text-align: left">
+<b>  <a href="https://ieeexplore.ieee.org/abstract/document/10512911"> Intra-Hour Solar Irradiance Estimation Using Infrared Sky Images and MobileNetV2-Based CNN Regression
+</a> </b> <br>
+<b> Authors: </b> Ifran Rahman Nijhum, Paul Kenny, Soumyabrata Dev<br>
+<b> Conference: </b> 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)
+15-18 Dec. 2023 <be>
+<a href="https://github.com/ifran-rahman/solar-irradiance-estimation-dl">Repo</a> <br>
+</div>
+''')
 txt6(
 '''
 <div style="text-align: left">
 <b>  <a href="https://ieeexplore.ieee.org/abstract/document/10178842"> Heartisan: An Incremental Learning Based Arrhythmia Detection, Data Collection, and Monitoring System</a> </b> <br>
 <b> Authors: </b> Ifran Rahman Nijhum, Anan Ghosh, Hasibul Hassan, Yearat Hossain, Tanzilur Rahman <br>
-<b> Conference: </b> IEEE 36th International Symposium on Computer Based Medical Systems (CBMS) 2023, L'Aquila, Italy, 22nd - 24th June, 2023.
-<a href="https://github.com/ifran-rahman/Heartisan">repo</a> <br>
-Repo: 'https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20learning.jpg?raw=true'
+<b> Conference: </b> IEEE 36th International Symposium on Computer Based Medical Systems (CBMS) 2023, L'Aquila, Italy, 22nd - 24th June, 2023. <be>
+<a href="https://github.com/ifran-rahman/Heartisan">repo</a> 
 </div>
 ''')
 txt6('''
