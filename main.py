@@ -92,12 +92,12 @@ txt7('https://github.com/ifran-rahman/Heartisan/blob/main/images/incremental%20l
 ''')
 txt6('''
 <div style="text-align: left">
-<b> <a>Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_) </a> </b> <br>
+<b> <a href="https://www.sciencedirect.com/science/article/pii/S2772662223001236"> Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network </a> </b> <br>
 <b> Authors: </b> M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman. <br>
 <b> Conference: </b> The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.
 </div>
 ''')
-
+https://link.springer.com/chapter/10.1007/978-3-031-46335-8_4
 txt6(
 '''
 <div style="text-align: left">
