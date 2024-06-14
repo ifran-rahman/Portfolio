@@ -54,6 +54,6 @@ def txt5(a, b):
   with col2:
     st.markdown(b, unsafe_allow_html=True)
 
-def txt6(a, b):
+def txt6(b):
   st.markdown(b, unsafe_allow_html=True)
 #####################
