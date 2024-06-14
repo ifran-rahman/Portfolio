@@ -108,9 +108,18 @@ txt5('images/vispol.png',
 <b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
 </div>
 ''')
-**[Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_)]**  
-**Authors:** M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman.  
-**Conference:** The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.
+
+txt5('images/vispol.png', 
+'''
+<div style="text-align: left">
+<b> <a href="https://ieeexplore.ieee.org/document/9666654"> Visual Pollution Detection Using Google Street View and YOLO </a> </b> <br>
+<b> Authors: </b> Yearat Hossain, Ifran Rahman Nijhum, Abu Adnan Sadi, Md. Tazin Morshed Shad, Rashedur M. Rahman <br>
+<b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
+</div>
+''')
+# **[Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_)]**  
+# **Authors:** M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman.  
+# **Conference:** The Third International Conference on Intelligent Systems and Patterns Recognition, Hammamet, Tunisia, 11th – 13th May 2023.
 
 # st.markdown('''
 # #### In Revision (_Decision Analytics Journal_)
