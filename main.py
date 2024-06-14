@@ -118,7 +118,7 @@ txt5(
 </div>
 ''')
 
-txt5('''
+txt('''
 <div style="text-align: left">
 <b> <a>Enhancing Image Quality of Aging Smartphones Using Multi-Scale Residual Feature Fusion Network (_Accepted_) </a> </b> <br>
 <b> Authors: </b> M. Y. Hossain, M. M. H. Rakib, I. R. Nijhum and T. Rahman. <br>
