@@ -83,7 +83,7 @@ st.markdown('''
 txt6(
 '''
 <div style="text-align: left">
-<b>  <a href="https://ieeexplore.ieee.org/abstract/document/10512911"> Enhancing Intra-Hour Solar Irradiance Estimation Through Knowledge Distillation and Infrared Sky Images
+<b>  <a> Enhancing Intra-Hour Solar Irradiance Estimation Through Knowledge Distillation and Infrared Sky Images
 </a> </b> <br>
 <b> Authors: </b> Ifran Rahman Nijhum,  Dewansh Kaloni, Paul Kenny, Soumyabrata Dev<br>
 <b> Conference: </b> 2024 IEEE International Geoscience and Remote Sensing Symposium,  7 - 12 July, 2024, Athens, Greece <be>
@@ -136,17 +136,6 @@ txt6(
 <b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
 </div>
 ''')
-
-txt6(
-'''
-<div style="text-align: left">
-<b> <a href="https://ieeexplore.ieee.org/document/9666654"> Visual Pollution Detection Using Google Street View and YOLO </a> </b> <br>
-<b> Authors: </b> Yearat Hossain, Ifran Rahman Nijhum, Abu Adnan Sadi, Md. Tazin Morshed Shad, Rashedur M. Rahman <br>
-<b> Conference: </b> IEEE 12th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
-</div>
-''')
-
-
 
 st.markdown('''
 ### Projects 
