@@ -83,6 +83,38 @@ st.markdown('''
 txt6(
 '''
 <div style="text-align: left">
+<b> A Hybrid CNN-LSTM Framework and Infrared Image Processing for Solar Irradiance Forecasting </b> <br>
+<b> Authors: </b> Ifran Rahman Nijhum, Md Yearat Hossain, Toluwabori Akinola, Md Mahbub Hasan Rakib, Soumyabrata Dev <br>
+<b> Conference: </b> 17th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI 2024), Shanghai, China, 2024
+</div>
+''')
+
+txt6(
+'''
+<div style="text-align: left">
+<b> Adaptive and Automatic Aerial Image Restoration Pipeline Leveraging Pre-Trained Image Restorer with Lightweight Fully Convolutional Network </b> <br>
+<b> Authors: </b> Md Yearat Hossain, Md Mahbub Hasan Rakib, Shafayet Rajit, Ifran Rahman Nijhum, Rashedur M Rahman <br>
+<b> Publication Date: </b> 1st January 2025 <br>
+<b> Journal: </b> Expert Systems with Applications <br>
+<b> Volume: </b> 259 <br>
+<b> Pages: </b> 125210 <br>
+<b> Publisher: </b> Pergamon
+</div>
+''')
+
+
+txt6(
+'''
+<div style="text-align: left">
+<b> On Improving Solar Forecasts with Enhanced IR Imaging and CNNs </b> <br>
+<b> Authors: </b> Ifran Rahman Nijhum, Md Yearat Hossain, Md Mahbub Hasan Rakib, Soumyabrata Dev <br>
+<b> Conference: </b> 26th Irish Machine Vision and Image Processing Conference, University of Limerick, 2024
+</div>
+''')
+
+txt6(
+'''
+<div style="text-align: left">
 <b>  <a href="https://ieeexplore.ieee.org/abstract/document/10642288"> Enhancing Intra-Hour Solar Irradiance Estimation Through Knowledge Distillation and Infrared Sky Images
 </a> </b> <br>
 <b> Authors: </b> Ifran Rahman Nijhum,  Dewansh Kaloni, Paul Kenny, Soumyabrata Dev<br>
