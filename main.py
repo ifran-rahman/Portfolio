@@ -19,7 +19,7 @@ I am currently a PhD student at University College Dublin in Ireland, specializi
 <br>
 Previously, I served as a Lecturer at <a href= 'https://www.rtm-aktu.edu.bd/'>RTM Al-Kabir Technical University</a> and worked as a Research Assistant at <a href= 'https://sites.google.com/site/tanzilctg/Home'>TnR Lab</a>, North South University. My academic and research journey began with a Bachelor of Science degree in Computer Science and Engineering from <a href= 'http://www.northsouth.edu/'>North South University</a>, Bangladesh.
 
-Apart from academics, I have participated in many contests. I was highly engaged in co-curricular activities. During last two years of my bachelors I served as the coordinator of Team R&D and one of the Sub-executives of Team Provision at <a href='https://nsusc.acm.org/home.html' >NSU ACM SC</a>.
+Apart from academics, I have participated in many contests. I was highly engaged in co-curricular activities. During the last two years of my bachelor's, I served as the coordinator of Team R&D and one of the Sub-executives of Team Provision at <a href='https://nsusc.acm.org/home.html' >NSU ACM SC</a>.
 
 In my free time, I love watching movies, series, traveling and taking photos. I like to try out new recipes from time to time as well!
 
@@ -83,10 +83,10 @@ st.markdown('''
 txt6(
 '''
 <div style="text-align: left">
-<b>  <a> Enhancing Intra-Hour Solar Irradiance Estimation Through Knowledge Distillation and Infrared Sky Images
+<b>  <a href="https://ieeexplore.ieee.org/abstract/document/10642288"> Enhancing Intra-Hour Solar Irradiance Estimation Through Knowledge Distillation and Infrared Sky Images
 </a> </b> <br>
 <b> Authors: </b> Ifran Rahman Nijhum,  Dewansh Kaloni, Paul Kenny, Soumyabrata Dev<br>
-<b> Conference: </b> 2024 IEEE International Geoscience and Remote Sensing Symposium,  7 - 12 July, 2024, Athens, Greece <be>
+<b> Conference: </b> 2024 IEEE International Geoscience and Remote Sensing Symposium,  7 - 12 July 2024, Athens, Greece <be>
 <a href="https://github.com/ifran-rahman/Solar_Estimation_KD">Repo</a> <be>
 <a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/05/nijhum2024.pdf">Slide</a>
 </div>
