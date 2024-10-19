@@ -93,11 +93,11 @@ txt6(
 txt6(
 '''
 <div style="text-align: left">
-<b>  <a https://www.sciencedirect.com/science/article/abs/pii/S0957417424020773"> Adaptive and Automatic Aerial Image Restoration Pipeline Leveraging Pre-Trained Image Restorer with Lightweight Fully Convolutional Network
+<b>  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424020773"> Adaptive and Automatic Aerial Image Restoration Pipeline Leveraging Pre-Trained Image Restorer with Lightweight Fully Convolutional Network
 </a> </b> <br>
 <b> Authors: </b> Md Yearat Hossain, Md Mahbub Hasan Rakib, Shafayet Rajit, Ifran Rahman Nijhum, Rashedur M Rahman <br>
 <b> Publication Date: </b> 1st January 2025 <br>
-<b> Journal: </b> Expert Systems with Applications, Volume: </b> 259 <br>, Pages: </b> 125210 <br>, Publisher: </b> Pergamon
+<b> Journal: </b> Expert Systems with Applications </b>, Volume: 259, Pages: 125210, Publisher: Pergamon
 </div>
 ''')
 
